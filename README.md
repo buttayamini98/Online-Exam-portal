@@ -1,4 +1,1 @@
-# Online-Exam-portal
-
-1. Student Registration and Login
-2. Admin login
+this is userlogin details updated by thangamani
