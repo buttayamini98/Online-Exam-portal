@@ -1,1 +1,1 @@
-"this is userlogin details  please check it"
+"Candidates Details edited by vino"
