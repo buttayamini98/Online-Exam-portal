@@ -1,1 +1,2 @@
-explaining exam details 
+
+explaining exam details for students
